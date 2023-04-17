@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "astronomy-engine": "^2.1.17"
+  },
+  "name": "solar-irradiance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zach Garrett",
+  "license": "ISC",
+  "description": ""
+}

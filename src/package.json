@@ -1,0 +1,19 @@
+{
+  "name": "solar-irradiance",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run build && node build/src/index.js",
+    "build": "npx tsc"
+  },
+  "author": "Zach Garrett",
+  "license": "ISC",
+  "dependencies": {
+    "suncalc": "^1.9.0",
+    "three": "^0.151.3",
+    "typescript": "^5.0.4"
+  }
+}
